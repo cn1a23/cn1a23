@@ -1,9 +1,9 @@
-### Hi there 👋
-
-<!--
+boas vindas ao meu perfl!
+olá, meu nome é Larissa Mariana Tobias
+estudo na escola Cívico Militar Professor Custódio Netto
 **cn1a23/cn1a23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+minha turma é 1 ano A
+estou me desenvolvendo em programação 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
