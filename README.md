@@ -1,16 +1,12 @@
-boas vindas ao meu perfl!
-olá, meu nome é Larissa Mariana Tobias
-estudo na escola Cívico Militar Professor Custódio Netto
-**cn1a23/cn1a23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-minha turma é 1 ano A
-estou me desenvolvendo em programação 
+boas vindas ao meu perfl!😽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+olá, meu nome é Larissa Mariana Tobias
+
+estudo na escola Cívico Militar Professor Custódio Netto
+
+minha turma é 1 ano A
+
+estou me desenvolvendo em linguagem de programação pelo [Alura]. (https?://cursos.com.br)
+
+você pode entrar em contato comigo pelo email-larissa.tobias@escola.pr.gov.br
+
